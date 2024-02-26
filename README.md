@@ -1,3 +1,3 @@
 # Mars
 A new line of code
-yet another line of code
+Yet another line of code
